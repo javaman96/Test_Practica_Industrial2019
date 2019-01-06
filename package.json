@@ -1,0 +1,22 @@
+{
+  "name": "javaman96",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javaman96/Test_Practica_Industrial2019.git"
+  }
+  "version": "1.0.0",
+  "private": "true",
+  "description": "\"test RabbitJS\"",
+  "main": "app.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "\"Sebastian Sanchez\"",
+  "dependencies": {
+    "express": "~4.14.0",
+    "ip": "~1.1.3"
+  }
+}
